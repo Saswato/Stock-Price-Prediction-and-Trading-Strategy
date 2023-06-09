@@ -1,6 +1,4 @@
-# Trading-strategies-using-Ridge-regression
-
-## Stock Price Prediction and Trading Strategy for Service Now Stock
+# Stock Price Prediction and Trading Strategy for Service Now Stock
 
 This code implements a stock price prediction and trading strategy using ridge regression and Bollinger Bands. It performs the following tasks:
 
